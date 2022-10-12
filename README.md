@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marianafranko
 - 👀 I’m interested in Epidemiological Methods
-- 🌱 I’m currentllearning modelos de previsão para logistica de leite a granel
+- 🌱 I’m currentllearning prediction and classification models
 - 💞️ Predictive Models
 - 📫 
 
